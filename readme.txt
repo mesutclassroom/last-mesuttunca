@@ -5,3 +5,4 @@
     multiply: requires 2 arguments and returns their multiplication.
     div: requires 2 arguments and returns their division.
 
+test
